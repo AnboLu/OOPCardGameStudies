@@ -1,0 +1,12 @@
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\BOLayer\bin\Debug\BOLayer.dll
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\BOLayer\bin\Debug\BOLayer.pdb
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\BOLayer\obj\Debug\BOLayer.csprojResolveAssemblyReference.cache
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\BOLayer\obj\Debug\BOLayer.csproj.CoreCompileInputs.cache
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\BOLayer\obj\Debug\BOLayer.dll
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\BOLayer\obj\Debug\BOLayer.pdb
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\BOLayer\bin\Debug\BOLayer.dll
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\BOLayer\bin\Debug\BOLayer.pdb
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\BOLayer\obj\Debug\BOLayer.csprojResolveAssemblyReference.cache
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\BOLayer\obj\Debug\BOLayer.csproj.CoreCompileInputs.cache
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\BOLayer\obj\Debug\BOLayer.dll
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\BOLayer\obj\Debug\BOLayer.pdb

@@ -1,0 +1,130 @@
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\AnboCGame.exe.config
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\AnboCGame.exe
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\AnboCGame.pdb
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\BOLayer.dll
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\BOLayer.pdb
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\obj\Debug\AnboCGame.csprojResolveAssemblyReference.cache
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\obj\Debug\AnboCGame.Form1.resources
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\obj\Debug\AnboCGame.Properties.Resources.resources
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\obj\Debug\AnboCGame.csproj.GenerateResource.Cache
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\obj\Debug\AnboCGame.csproj.CoreCompileInputs.cache
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\obj\Debug\AnboCGame.exe
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\obj\Debug\AnboCGame.pdb
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\AceClubs.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\AceDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\AceHearts.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\AceSpades.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\cardback.gif
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\EightClubs.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\EightDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\EightHearts.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\EightSpades.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\FiveClubs.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\FiveDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\FiveHearts.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\FiveSpades.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\FourClubs.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\FourDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\FourHearts.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\FourSpades.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\JackClubs.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\JackDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\JackHearts.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\JackSpades.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\KingClubs.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\KingDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\KingHearts.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\KingSpades.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\NineClubs.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\NineDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\NineHearts.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\NineSpades.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\QueenClubs.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\QueenDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\QueenHearts.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\QueenSpades.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\SevenClubs.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\SevenDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\SevenHearts.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\SevenSpades.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\SixClubs.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\SixDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\SixHearts.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\SixSpades.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\TenClubs.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\TenDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\TenHearts.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\TenSpades.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\ThreeClubs.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\ThreeDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\ThreeHearts.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\ThreeSpades.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\TwoClubs.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\TwoDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\TwoHearts.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\images\TwoSpades.jpg
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\AnboCGame.exe.config
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\AnboCGame.exe
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\AnboCGame.pdb
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\BOLayer.dll
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\bin\Debug\BOLayer.pdb
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\obj\Debug\AnboCGame.csprojResolveAssemblyReference.cache
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\obj\Debug\AnboCGame.Form1.resources
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\obj\Debug\AnboCGame.Properties.Resources.resources
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\obj\Debug\AnboCGame.csproj.GenerateResource.Cache
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\obj\Debug\AnboCGame.csproj.CoreCompileInputs.cache
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\obj\Debug\AnboCGame.exe
+C:\Users\lab93\Desktop\NBCC\ShortPath\AnboCGame\AnboCGame\obj\Debug\AnboCGame.pdb
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\AceClubs.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\AceDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\AceHearts.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\AceSpades.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\cardback.gif
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\EightClubs.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\EightDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\EightHearts.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\EightSpades.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\FiveClubs.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\FiveDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\FiveHearts.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\FiveSpades.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\FourClubs.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\FourDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\FourHearts.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\FourSpades.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\JackClubs.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\JackDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\JackHearts.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\JackSpades.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\KingClubs.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\KingDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\KingHearts.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\KingSpades.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\NineClubs.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\NineDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\NineHearts.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\NineSpades.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\QueenClubs.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\QueenDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\QueenHearts.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\QueenSpades.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\SevenClubs.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\SevenDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\SevenHearts.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\SevenSpades.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\SixClubs.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\SixDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\SixHearts.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\SixSpades.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\TenClubs.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\TenDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\TenHearts.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\TenSpades.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\ThreeClubs.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\ThreeDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\ThreeHearts.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\ThreeSpades.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\TwoClubs.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\TwoDiamonds.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\TwoHearts.jpg
+C:\Users\lab93\Desktop\NBCC\Course06 2020 Winter\Object oriented program\FinalCardGame\AnboCGame\AnboCGame\bin\Debug\images\TwoSpades.jpg
